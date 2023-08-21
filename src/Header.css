@@ -1,0 +1,13 @@
+.img1{
+    margin:10px;
+    height:300px;
+    width:1200px;
+}
+.head{
+    border:1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    height:400px;
+    width:1250px;
+    margin-left: 20px;
+}
